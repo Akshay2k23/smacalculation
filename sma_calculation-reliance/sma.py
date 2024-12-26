@@ -27,6 +27,6 @@ def calculate_sma(input_file, output_file):
 
 if __name__ == "__main__":
     input_file = "RELIANCE.csv"
-    output_file = "RELIANCE_with_SMA.csv"
+    output_file = "RELIANCE_SMA.csv"
     calculate_sma(input_file, output_file)
 
